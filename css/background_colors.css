@@ -1,0 +1,12 @@
+.bg-hardgrey{
+    background-color: rgb(34, 34, 34);
+}
+
+.bg-nav-black{
+    background-color: rgba(0, 0, 0, 0.603);
+}
+
+.banner-image.fade-out {
+    opacity: 0;
+}
+
